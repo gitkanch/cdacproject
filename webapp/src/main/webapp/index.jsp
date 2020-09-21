@@ -171,7 +171,7 @@ input[type=submit]:hover {
 </div>
 <center><div style="padding-left:16px">
   <marquee><h2 style="color:slateBlue;font-size:50px">KAAS</h2>
-  <p style="color:Tomato;font-size:20px">  ANIKET  ANIKET  </p></marquee>
+  <p style="color:Tomato;font-size:20px">  ANIKET  </p></marquee>
 </div>
 </center>
 <div class="container">
